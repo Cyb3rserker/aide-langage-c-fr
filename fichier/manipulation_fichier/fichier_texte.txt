@@ -1,0 +1,7 @@
+Medoune 15 75
+Ce fichier est un exemple pour le programme d'aide sur les fichiers.
+voici la deuxieme ligne du fichier de test 
+voici la troisieme ligne du fichier de test 
+voici la quatrieme ligne du fichier de test 
+voici la cinquieme ligne du fichier de test 
+voici la sixieme ligne du fichier de test 
