@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=90hGCMC3Chc&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHh
 https://www.youtube.com/watch?v=YoXxevp1WRQ&pp=qAMBugMGCgJmchAB
 
 - stackoverflow pour les  différents problèmes que j'ai pu rencontré
+
+- un peu du cour sur le langage c d'OpenClassroom :
+https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
